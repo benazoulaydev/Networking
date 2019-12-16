@@ -5,7 +5,7 @@ via TCP connection. This is a Single-Threaded connection, so only, so delivery w
 Client in Mode 2 (see below): can type a word to search the file he wants, it display all the files with the word he yped in it and afterward he can choose which file he want to download (he types the number). 
 ## Installation
 
-Download [server.py](https://github.com/benazoulaydev/Networking/blob/master/2%20-%20TCP/server.py) and [client.py](https://github.com/benazoulaydev/Networking/blob/master/2%20-%20TCP/client.py).
+Download [server.py](https://github.com/benazoulaydev/Networking/blob/master/2%20-%20TCP%20FILES%20SENDING/server.py) and [client.py](https://github.com/benazoulaydev/Networking/blob/master/2%20-%20TCP%20FILES%20SENDING/client.py).
 
 
 

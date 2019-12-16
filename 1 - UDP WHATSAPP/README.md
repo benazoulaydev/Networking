@@ -7,7 +7,7 @@ Note: The work was tested and checked in localhost.
 
 ## Installation
 
-Download [server.py](https://github.com/benazoulaydev/Networking/blob/master/1%20-%20UDP/server.py) and [client.py](https://github.com/benazoulaydev/Networking/blob/master/1%20-%20UDP/client.py).
+Download [server.py](https://github.com/benazoulaydev/Networking/blob/master/1%20-%20UDP%20WHATSAPP/server.py) and [client.py](https://github.com/benazoulaydev/Networking/blob/master/1%20-%20UDP%20WHATSAPP/client.py).
 
 
 
